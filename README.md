@@ -1,2 +1,2 @@
 # Generative-Art-From-Music
-Using Touch Designer and Stable Diffusion to create generative art from music.
+https://glossy-forsythia-d8b.notion.site/Actuar-5cc17bdaaebd4bcfae49be826bc155f7?pvs=4

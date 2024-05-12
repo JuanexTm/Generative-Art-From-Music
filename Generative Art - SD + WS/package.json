@@ -1,0 +1,29 @@
+{
+  "name": "sf2websockets",
+  "version": "1.0.0",
+  "description": "Demo de websockets para sfi2",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^8.17.0"
+  },
+  "author": "jfranco",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanferfranco/sf2Websockets.git"
+  },
+  "keywords": [
+    "interactivos"
+  ],
+  "bugs": {
+    "url": "https://github.com/juanferfranco/sf2Websockets/issues"
+  },
+  "homepage": "https://github.com/juanferfranco/sf2Websockets#readme"
+}

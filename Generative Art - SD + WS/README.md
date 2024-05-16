@@ -1,7 +1,1 @@
-# Demo básico para probar websockets con plataformas interactivas
- 
- * Debes tener instalado node.js
- * Instala las dependencias con npm install
- * inicia la aplicación con npm start
-
- 
+[Documentación](https://glossy-forsythia-d8b.notion.site/Arte-Generativo-8952001a7c96481db30f6f374b6438b1?pvs=4)
